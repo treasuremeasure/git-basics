@@ -1,0 +1,2 @@
+some lines
+git commit -m "Первый коммит"
